@@ -1,0 +1,225 @@
+[INFO ] 2023-04-29 06:13:59.908 [main] RegistrationTest - open browser
+[INFO ] 2023-04-29 06:14:01.453 [main] RegistrationTest - click on register
+[INFO ] 2023-04-29 06:14:02.345 [main] RegistrationTest - add first name
+[INFO ] 2023-04-29 06:14:02.473 [main] RegistrationTest - add last name
+[INFO ] 2023-04-29 06:14:02.584 [main] RegistrationTest - enter email
+[INFO ] 2023-04-29 06:14:02.696 [main] RegistrationTest - enter address
+[INFO ] 2023-04-29 06:14:02.829 [main] RegistrationTest - Enter Phone number
+[INFO ] 2023-04-29 06:14:02.932 [main] RegistrationTest - Enter State
+[INFO ] 2023-04-29 06:14:03.026 [main] RegistrationTest - Enter password
+[INFO ] 2023-04-29 06:14:03.134 [main] RegistrationTest - Enter Country
+[INFO ] 2023-04-29 06:14:03.224 [main] RegistrationTest - Enter Postal code
+[INFO ] 2023-04-29 06:14:03.310 [main] RegistrationTest - Enter confirm password
+[INFO ] 2023-04-29 06:14:03.405 [main] RegistrationTest - Enter City
+[INFO ] 2023-04-29 06:14:03.499 [main] RegistrationTest - Enter User name
+[INFO ] 2023-04-29 06:14:03.606 [main] RegistrationTest - Submit
+[INFO ] 2023-05-01 06:06:29.852 [main] RegistrationTest - open browser
+[INFO ] 2023-05-01 06:06:33.301 [main] RegistrationTest - click on register
+[INFO ] 2023-05-01 06:06:34.396 [main] RegistrationTest - add first name
+[INFO ] 2023-05-01 06:06:34.482 [main] RegistrationTest - add last name
+[INFO ] 2023-05-01 06:06:34.533 [main] RegistrationTest - enter email
+[INFO ] 2023-05-01 06:06:34.591 [main] RegistrationTest - enter address
+[INFO ] 2023-05-01 06:06:34.683 [main] RegistrationTest - Enter Phone number
+[INFO ] 2023-05-01 06:06:34.735 [main] RegistrationTest - Enter State
+[INFO ] 2023-05-01 06:06:34.784 [main] RegistrationTest - Enter password
+[INFO ] 2023-05-01 06:06:34.834 [main] RegistrationTest - Enter Country
+[INFO ] 2023-05-01 06:06:34.878 [main] RegistrationTest - Enter Postal code
+[INFO ] 2023-05-01 06:06:34.937 [main] RegistrationTest - Enter confirm password
+[INFO ] 2023-05-01 06:06:34.994 [main] RegistrationTest - Enter City
+[INFO ] 2023-05-01 06:06:35.043 [main] RegistrationTest - Enter User name
+[INFO ] 2023-05-01 06:06:35.090 [main] RegistrationTest - Submit
+[INFO ] 2023-05-01 08:16:51.888 [main] RegistrationTest - open browser
+[INFO ] 2023-05-01 08:16:55.081 [main] RegistrationTest - click on register
+[INFO ] 2023-05-01 08:16:55.699 [main] RegistrationTest - add first name
+[INFO ] 2023-05-01 08:16:55.786 [main] RegistrationTest - add last name
+[INFO ] 2023-05-01 08:16:55.834 [main] RegistrationTest - enter email
+[INFO ] 2023-05-01 08:16:55.887 [main] RegistrationTest - enter address
+[INFO ] 2023-05-01 08:16:55.959 [main] RegistrationTest - Enter Phone number
+[INFO ] 2023-05-01 08:16:56.007 [main] RegistrationTest - Enter State
+[INFO ] 2023-05-01 08:16:56.057 [main] RegistrationTest - Enter password
+[INFO ] 2023-05-01 08:16:56.108 [main] RegistrationTest - Enter Country
+[INFO ] 2023-05-01 08:16:56.151 [main] RegistrationTest - Enter Postal code
+[INFO ] 2023-05-01 08:16:56.212 [main] RegistrationTest - Enter confirm password
+[INFO ] 2023-05-01 08:16:56.263 [main] RegistrationTest - Enter City
+[INFO ] 2023-05-01 08:16:56.311 [main] RegistrationTest - Enter User name
+[INFO ] 2023-05-01 08:16:56.360 [main] RegistrationTest - Submit
+[INFO ] 2023-05-01 08:57:37.593 [main] RegistrationTest - open browser
+[INFO ] 2023-05-01 08:57:39.709 [main] RegistrationTest - click on register
+[INFO ] 2023-05-01 08:57:40.343 [main] RegistrationTest - add first name
+[INFO ] 2023-05-01 08:57:40.491 [main] RegistrationTest - add last name
+[INFO ] 2023-05-01 08:57:40.609 [main] RegistrationTest - enter email
+[INFO ] 2023-05-01 08:57:40.721 [main] RegistrationTest - enter address
+[INFO ] 2023-05-01 08:57:40.834 [main] RegistrationTest - Enter Phone number
+[INFO ] 2023-05-01 08:57:40.939 [main] RegistrationTest - Enter State
+[INFO ] 2023-05-01 08:57:41.031 [main] RegistrationTest - Enter password
+[INFO ] 2023-05-01 08:57:41.136 [main] RegistrationTest - Enter Country
+[INFO ] 2023-05-01 08:57:41.231 [main] RegistrationTest - Enter Postal code
+[INFO ] 2023-05-01 08:57:41.336 [main] RegistrationTest - Enter confirm password
+[INFO ] 2023-05-01 08:57:41.440 [main] RegistrationTest - Enter City
+[INFO ] 2023-05-01 08:57:41.545 [main] RegistrationTest - Enter User name
+[INFO ] 2023-05-01 08:57:41.651 [main] RegistrationTest - Submit
+[INFO ] 2023-05-01 09:50:15.951 [main] RegistrationTest - open browser
+[INFO ] 2023-05-01 09:50:17.740 [main] RegistrationTest - click on register
+[INFO ] 2023-05-01 09:50:18.397 [main] RegistrationTest - add first name
+[INFO ] 2023-05-01 09:50:18.548 [main] RegistrationTest - add last name
+[INFO ] 2023-05-01 09:50:18.669 [main] RegistrationTest - enter email
+[INFO ] 2023-05-01 09:50:18.781 [main] RegistrationTest - enter address
+[INFO ] 2023-05-01 09:50:18.905 [main] RegistrationTest - Enter Phone number
+[INFO ] 2023-05-01 09:50:18.990 [main] RegistrationTest - Enter State
+[INFO ] 2023-05-01 09:50:19.070 [main] RegistrationTest - Enter password
+[INFO ] 2023-05-01 09:50:19.178 [main] RegistrationTest - Enter Country
+[INFO ] 2023-05-01 09:50:19.264 [main] RegistrationTest - Enter Postal code
+[INFO ] 2023-05-01 09:50:19.364 [main] RegistrationTest - Enter confirm password
+[INFO ] 2023-05-01 09:50:19.466 [main] RegistrationTest - Enter City
+[INFO ] 2023-05-01 09:50:19.554 [main] RegistrationTest - Enter User name
+[INFO ] 2023-05-01 09:50:19.647 [main] RegistrationTest - Submit
+[INFO ] 2023-05-01 09:51:56.909 [main] RegistrationTest - open browser
+[INFO ] 2023-05-01 09:52:01.253 [main] RegistrationTest - click on register
+[INFO ] 2023-05-01 09:52:01.957 [main] RegistrationTest - add first name
+[INFO ] 2023-05-01 09:52:02.050 [main] RegistrationTest - add last name
+[INFO ] 2023-05-01 09:52:02.126 [main] RegistrationTest - enter email
+[INFO ] 2023-05-01 09:52:02.216 [main] RegistrationTest - enter address
+[INFO ] 2023-05-01 09:52:02.287 [main] RegistrationTest - Enter Phone number
+[INFO ] 2023-05-01 09:52:02.346 [main] RegistrationTest - Enter State
+[INFO ] 2023-05-01 09:52:02.410 [main] RegistrationTest - Enter password
+[INFO ] 2023-05-01 09:52:02.482 [main] RegistrationTest - Enter Country
+[INFO ] 2023-05-01 09:52:02.541 [main] RegistrationTest - Enter Postal code
+[INFO ] 2023-05-01 09:52:02.617 [main] RegistrationTest - Enter confirm password
+[INFO ] 2023-05-01 09:52:02.710 [main] RegistrationTest - Enter City
+[INFO ] 2023-05-01 09:52:02.798 [main] RegistrationTest - Enter User name
+[INFO ] 2023-05-01 09:52:02.883 [main] RegistrationTest - Submit
+[INFO ] 2023-05-01 09:55:10.333 [main] RegistrationTest - open browser
+[INFO ] 2023-05-01 09:55:11.777 [main] RegistrationTest - click on register
+[INFO ] 2023-05-01 09:55:12.615 [main] RegistrationTest - add first name
+[INFO ] 2023-05-01 09:55:12.755 [main] RegistrationTest - add last name
+[INFO ] 2023-05-01 09:55:12.854 [main] RegistrationTest - enter email
+[INFO ] 2023-05-01 09:55:12.961 [main] RegistrationTest - enter address
+[INFO ] 2023-05-01 09:55:13.076 [main] RegistrationTest - Enter Phone number
+[INFO ] 2023-05-01 09:55:13.173 [main] RegistrationTest - Enter State
+[INFO ] 2023-05-01 09:55:13.270 [main] RegistrationTest - Enter password
+[INFO ] 2023-05-01 09:55:13.379 [main] RegistrationTest - Enter Country
+[INFO ] 2023-05-01 09:55:13.464 [main] RegistrationTest - Enter Postal code
+[INFO ] 2023-05-01 09:55:13.565 [main] RegistrationTest - Enter confirm password
+[INFO ] 2023-05-01 09:55:13.673 [main] RegistrationTest - Enter City
+[INFO ] 2023-05-01 09:55:13.777 [main] RegistrationTest - Enter User name
+[INFO ] 2023-05-01 09:55:13.873 [main] RegistrationTest - Submit
+[INFO ] 2023-05-01 10:49:06.398 [main] RegistrationTest - open browser
+[INFO ] 2023-05-01 10:49:08.503 [main] RegistrationTest - click on register
+[INFO ] 2023-05-01 10:49:09.117 [main] RegistrationTest - add first name
+[INFO ] 2023-05-01 10:49:09.198 [main] RegistrationTest - add last name
+[INFO ] 2023-05-01 10:49:09.252 [main] RegistrationTest - enter email
+[INFO ] 2023-05-01 10:49:09.310 [main] RegistrationTest - enter address
+[INFO ] 2023-05-01 10:49:09.373 [main] RegistrationTest - Enter Phone number
+[INFO ] 2023-05-01 10:49:09.424 [main] RegistrationTest - Enter State
+[INFO ] 2023-05-01 10:49:09.470 [main] RegistrationTest - Enter password
+[INFO ] 2023-05-01 10:49:09.805 [main] RegistrationTest - Enter Country
+[INFO ] 2023-05-01 10:49:09.864 [main] RegistrationTest - Enter Postal code
+[INFO ] 2023-05-01 10:49:09.913 [main] RegistrationTest - Enter confirm password
+[INFO ] 2023-05-01 10:49:09.962 [main] RegistrationTest - Enter City
+[INFO ] 2023-05-01 10:49:10.012 [main] RegistrationTest - Enter User name
+[INFO ] 2023-05-01 10:49:10.060 [main] RegistrationTest - Submit
+[INFO ] 2023-05-01 11:05:48.158 [main] RegistrationTest - open browser
+[INFO ] 2023-05-01 11:05:51.043 [main] RegistrationTest - click on register
+[INFO ] 2023-05-01 11:05:51.659 [main] RegistrationTest - add first name
+[INFO ] 2023-05-01 11:05:51.743 [main] RegistrationTest - add last name
+[INFO ] 2023-05-01 11:05:51.795 [main] RegistrationTest - enter email
+[INFO ] 2023-05-01 11:05:51.850 [main] RegistrationTest - enter address
+[INFO ] 2023-05-01 11:05:51.916 [main] RegistrationTest - Enter Phone number
+[INFO ] 2023-05-01 11:05:51.966 [main] RegistrationTest - Enter State
+[INFO ] 2023-05-01 11:05:52.015 [main] RegistrationTest - Enter password
+[INFO ] 2023-05-01 11:05:52.068 [main] RegistrationTest - Enter Country
+[INFO ] 2023-05-01 11:05:52.114 [main] RegistrationTest - Enter Postal code
+[INFO ] 2023-05-01 11:05:52.172 [main] RegistrationTest - Enter confirm password
+[INFO ] 2023-05-01 11:05:52.233 [main] RegistrationTest - Enter City
+[INFO ] 2023-05-01 11:05:52.292 [main] RegistrationTest - Enter User name
+[INFO ] 2023-05-01 11:05:52.339 [main] RegistrationTest - Submit
+[INFO ] 2023-05-01 12:54:05.148 [main] RegistrationTest - open browser
+[INFO ] 2023-05-01 12:54:07.445 [main] RegistrationTest - click on register
+[INFO ] 2023-05-01 12:54:08.678 [main] RegistrationTest - add first name
+[INFO ] 2023-05-01 12:54:09.060 [main] RegistrationTest - add last name
+[INFO ] 2023-05-01 12:54:09.177 [main] RegistrationTest - enter email
+[INFO ] 2023-05-01 12:54:09.298 [main] RegistrationTest - enter address
+[INFO ] 2023-05-01 12:54:09.420 [main] RegistrationTest - Enter Phone number
+[INFO ] 2023-05-01 12:54:09.526 [main] RegistrationTest - Enter State
+[INFO ] 2023-05-01 12:54:09.621 [main] RegistrationTest - Enter password
+[INFO ] 2023-05-01 12:54:09.721 [main] RegistrationTest - Enter Country
+[INFO ] 2023-05-01 12:54:09.809 [main] RegistrationTest - Enter Postal code
+[INFO ] 2023-05-01 12:54:09.910 [main] RegistrationTest - Enter confirm password
+[INFO ] 2023-05-01 12:54:10.019 [main] RegistrationTest - Enter City
+[INFO ] 2023-05-01 12:54:10.120 [main] RegistrationTest - Enter User name
+[INFO ] 2023-05-01 12:54:10.220 [main] RegistrationTest - Submit
+[INFO ] 2023-05-01 13:03:40.145 [main] RegistrationTest - open browser
+[INFO ] 2023-05-01 13:03:42.087 [main] RegistrationTest - click on register
+[INFO ] 2023-05-01 13:03:42.774 [main] RegistrationTest - add first name
+[INFO ] 2023-05-01 13:03:43.152 [main] RegistrationTest - add last name
+[INFO ] 2023-05-01 13:03:43.262 [main] RegistrationTest - enter email
+[INFO ] 2023-05-01 13:03:43.434 [main] RegistrationTest - enter address
+[INFO ] 2023-05-01 13:03:43.531 [main] RegistrationTest - Enter Phone number
+[INFO ] 2023-05-01 13:03:43.618 [main] RegistrationTest - Enter State
+[INFO ] 2023-05-01 13:03:43.725 [main] RegistrationTest - Enter password
+[INFO ] 2023-05-01 13:03:43.841 [main] RegistrationTest - Enter Country
+[INFO ] 2023-05-01 13:03:43.926 [main] RegistrationTest - Enter Postal code
+[INFO ] 2023-05-01 13:03:44.024 [main] RegistrationTest - Enter confirm password
+[INFO ] 2023-05-01 13:03:44.121 [main] RegistrationTest - Enter City
+[INFO ] 2023-05-01 13:03:44.207 [main] RegistrationTest - Enter User name
+[INFO ] 2023-05-01 13:03:44.292 [main] RegistrationTest - Submit
+[INFO ] 2023-05-01 13:04:25.143 [main] RegistrationTest - open browser
+[INFO ] 2023-05-01 13:04:28.074 [main] RegistrationTest - click on register
+[INFO ] 2023-05-01 13:04:28.765 [main] RegistrationTest - add first name
+[INFO ] 2023-05-01 13:04:29.177 [main] RegistrationTest - add last name
+[INFO ] 2023-05-01 13:04:29.285 [main] RegistrationTest - enter email
+[INFO ] 2023-05-01 13:04:29.487 [main] RegistrationTest - enter address
+[INFO ] 2023-05-01 13:04:29.619 [main] RegistrationTest - Enter Phone number
+[INFO ] 2023-05-01 13:04:29.741 [main] RegistrationTest - Enter State
+[INFO ] 2023-05-01 13:04:29.839 [main] RegistrationTest - Enter password
+[INFO ] 2023-05-01 13:04:29.957 [main] RegistrationTest - Enter Country
+[INFO ] 2023-05-01 13:04:30.066 [main] RegistrationTest - Enter Postal code
+[INFO ] 2023-05-01 13:04:30.182 [main] RegistrationTest - Enter confirm password
+[INFO ] 2023-05-01 13:04:30.297 [main] RegistrationTest - Enter City
+[INFO ] 2023-05-01 13:04:30.394 [main] RegistrationTest - Enter User name
+[INFO ] 2023-05-01 13:04:30.488 [main] RegistrationTest - Submit
+[INFO ] 2023-05-01 13:17:40.847 [main] RegistrationTest - open browser
+[INFO ] 2023-05-01 13:17:43.346 [main] RegistrationTest - click on register
+[INFO ] 2023-05-01 13:17:44.044 [main] RegistrationTest - add first name
+[INFO ] 2023-05-01 13:17:44.436 [main] RegistrationTest - add last name
+[INFO ] 2023-05-01 13:17:44.539 [main] RegistrationTest - enter email
+[INFO ] 2023-05-01 13:17:44.724 [main] RegistrationTest - enter address
+[INFO ] 2023-05-01 13:17:44.903 [main] RegistrationTest - Enter Phone number
+[INFO ] 2023-05-01 13:17:45.010 [main] RegistrationTest - Enter State
+[INFO ] 2023-05-01 13:17:45.099 [main] RegistrationTest - Enter password
+[INFO ] 2023-05-01 13:17:45.199 [main] RegistrationTest - Enter Country
+[INFO ] 2023-05-01 13:17:45.309 [main] RegistrationTest - Enter Postal code
+[INFO ] 2023-05-01 13:17:45.416 [main] RegistrationTest - Enter confirm password
+[INFO ] 2023-05-01 13:17:45.528 [main] RegistrationTest - Enter City
+[INFO ] 2023-05-01 13:17:45.645 [main] RegistrationTest - Enter User name
+[INFO ] 2023-05-01 13:17:45.726 [main] RegistrationTest - Submit
+[INFO ] 2023-05-01 13:19:53.191 [main] RegistrationTest - open browser
+[INFO ] 2023-05-01 13:19:54.771 [main] RegistrationTest - click on register
+[INFO ] 2023-05-01 13:19:56.686 [main] RegistrationTest - add first name
+[INFO ] 2023-05-01 13:19:57.053 [main] RegistrationTest - add last name
+[INFO ] 2023-05-01 13:19:57.152 [main] RegistrationTest - enter email
+[INFO ] 2023-05-01 13:19:57.342 [main] RegistrationTest - enter address
+[INFO ] 2023-05-01 13:19:57.524 [main] RegistrationTest - Enter Phone number
+[INFO ] 2023-05-01 13:19:57.630 [main] RegistrationTest - Enter State
+[INFO ] 2023-05-01 13:19:57.736 [main] RegistrationTest - Enter password
+[INFO ] 2023-05-01 13:19:57.836 [main] RegistrationTest - Enter Country
+[INFO ] 2023-05-01 13:19:57.914 [main] RegistrationTest - Enter Postal code
+[INFO ] 2023-05-01 13:19:58.016 [main] RegistrationTest - Enter confirm password
+[INFO ] 2023-05-01 13:19:58.135 [main] RegistrationTest - Enter City
+[INFO ] 2023-05-01 13:19:58.248 [main] RegistrationTest - Enter User name
+[INFO ] 2023-05-01 13:19:58.364 [main] RegistrationTest - Submit
+[INFO ] 2023-05-01 13:25:03.732 [main] RegistrationTest - open browser
+[INFO ] 2023-05-01 13:25:07.386 [main] RegistrationTest - click on register
+[INFO ] 2023-05-01 13:25:08.136 [main] RegistrationTest - add first name
+[INFO ] 2023-05-01 13:25:08.528 [main] RegistrationTest - add last name
+[INFO ] 2023-05-01 13:25:08.625 [main] RegistrationTest - enter email
+[INFO ] 2023-05-01 13:25:08.803 [main] RegistrationTest - enter address
+[INFO ] 2023-05-01 13:25:08.978 [main] RegistrationTest - Enter Phone number
+[INFO ] 2023-05-01 13:25:09.087 [main] RegistrationTest - Enter State
+[INFO ] 2023-05-01 13:25:09.191 [main] RegistrationTest - Enter password
+[INFO ] 2023-05-01 13:25:09.334 [main] RegistrationTest - Enter Country
+[INFO ] 2023-05-01 13:25:09.441 [main] RegistrationTest - Enter Postal code
+[INFO ] 2023-05-01 13:25:09.562 [main] RegistrationTest - Enter confirm password
+[INFO ] 2023-05-01 13:25:09.688 [main] RegistrationTest - Enter City
+[INFO ] 2023-05-01 13:25:09.818 [main] RegistrationTest - Enter User name
+[INFO ] 2023-05-01 13:25:09.927 [main] RegistrationTest - Submit
