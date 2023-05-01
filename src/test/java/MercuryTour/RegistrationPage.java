@@ -2,8 +2,6 @@ package MercuryTour;
 
 
 import com.github.javafaker.Faker;
-
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -14,8 +12,6 @@ public class RegistrationPage {
     WebDriver driver;
 
     Faker faker = new Faker();
-
-
 
     RegistrationPage(WebDriver d){
         driver = d;
@@ -37,7 +33,6 @@ public class RegistrationPage {
     @FindBy(xpath = "//input[@name='password']") WebElement Password;
     @FindBy(xpath = "//input[@name='confirmPassword']") WebElement ConfirmPassword;
     @FindBy(xpath = "//input[@name='submit']") WebElement Submitbtn;
-
 
 
 
@@ -93,9 +88,13 @@ public class RegistrationPage {
 
     public void setConfirmPassword(String confirmPassword) {
         ConfirmPassword.sendKeys(faker.internet().password());
-
-
     }
+    public void Submitbtn() {
+        Submitbtn.click();
+    }
+}
+
+
 
 //    public void setLastName(String lName) {
 //        LastName.sendKeys(lName);
@@ -142,10 +141,7 @@ public class RegistrationPage {
 //
 //    }
 
-    public void Submitbtn() {
-        Submitbtn.click();
-    }
-}
+
 
 
 
