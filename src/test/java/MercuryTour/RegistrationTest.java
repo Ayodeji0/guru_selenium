@@ -3,7 +3,9 @@ package MercuryTour;
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
+
 import com.github.javafaker.Faker;
+
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.core.Logger;
@@ -36,13 +38,16 @@ public class RegistrationTest {
         option.setHeadless(false);
         driver = WebDriverManager.chromedriver().capabilities(option).create();
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.MILLISECONDS);
+
         Faker faker = new Faker();
+
         logger.info("open browser");
         driver.get("https://demo.guru99.com/selenium/newtours/");
         RegistrationPage REGPAGE = new RegistrationPage(driver);
         logger.info("click on register");
         REGPAGE.clickreglink();
         logger.info("add first name");
+
         REGPAGE.setFirstName("");
         logger.info("add last name");
         REGPAGE.setLastName("");
@@ -66,6 +71,29 @@ public class RegistrationTest {
         REGPAGE.setCity("");
         logger.info("Enter User name");
         REGPAGE.setUserName("");
+        REGPAGE.setFirstName("JOHN");
+        logger.info("add last name");
+        REGPAGE.setLastName("tunji");
+        logger.info("enter email");
+        REGPAGE.setEmail("deji@mail.com");
+        logger.info("enter address");
+        REGPAGE.setAddress(" 20,street street");
+        logger.info("Enter Phone number");
+        REGPAGE.setPhone("7777777");
+        logger.info("Enter State");
+        REGPAGE.setState("ondo");
+        logger.info("Enter password");
+        REGPAGE.setPassword("123455656");
+        logger.info("Enter Country");
+        REGPAGE.setCountry("india");
+        logger.info("Enter Postal code");
+        REGPAGE.setPostalCode("23434");
+        logger.info("Enter confirm password");
+        REGPAGE.setConfirmPassword("123455656");
+        logger.info("Enter City");
+        REGPAGE.setCity("osogbo");
+        logger.info("Enter User name");
+        REGPAGE.setUserName("johnoo");
         logger.info("Submit");
         REGPAGE.Submitbtn();
     }

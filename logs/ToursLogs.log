@@ -133,6 +133,7 @@
 [INFO ] 2023-05-01 11:05:52.233 [main] RegistrationTest - Enter City
 [INFO ] 2023-05-01 11:05:52.292 [main] RegistrationTest - Enter User name
 [INFO ] 2023-05-01 11:05:52.339 [main] RegistrationTest - Submit
+
 [INFO ] 2023-05-01 12:54:05.148 [main] RegistrationTest - open browser
 [INFO ] 2023-05-01 12:54:07.445 [main] RegistrationTest - click on register
 [INFO ] 2023-05-01 12:54:08.678 [main] RegistrationTest - add first name
@@ -223,3 +224,4 @@
 [INFO ] 2023-05-01 13:25:09.688 [main] RegistrationTest - Enter City
 [INFO ] 2023-05-01 13:25:09.818 [main] RegistrationTest - Enter User name
 [INFO ] 2023-05-01 13:25:09.927 [main] RegistrationTest - Submit
+

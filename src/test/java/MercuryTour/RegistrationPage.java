@@ -1,6 +1,9 @@
 package MercuryTour;
 
+
 import com.github.javafaker.Faker;
+
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -9,7 +12,10 @@ import org.openqa.selenium.support.PageFactory;
 
 public class RegistrationPage {
     WebDriver driver;
+
     Faker faker = new Faker();
+
+
 
     RegistrationPage(WebDriver d){
         driver = d;
@@ -41,6 +47,7 @@ public class RegistrationPage {
     }
 
     public void setFirstName(String fName) {
+
         FirstName.sendKeys(faker.name().firstName());
     }
 
@@ -86,7 +93,54 @@ public class RegistrationPage {
 
     public void setConfirmPassword(String confirmPassword) {
         ConfirmPassword.sendKeys(faker.internet().password());
+
+
     }
+
+//    public void setLastName(String lName) {
+//        LastName.sendKeys(lName);
+//    }
+
+//    public void setPhone(String ph) {
+//        Phone.sendKeys(ph);
+//    }
+
+//    public void setUserName(String user) {
+//        UserName.sendKeys(user);
+//    }
+
+//    public void setAddress(String address) {
+//        Address.sendKeys(address);
+//    }
+//
+//    public void setCity(String city) {
+//        City.sendKeys(city);
+//    }
+//
+//    public void setState(String state) {
+//        State.sendKeys(state);
+//    }
+//
+//    public void setPostalCode(String code) {
+//        PostalCode.sendKeys(code);
+//    }
+//
+//    public void setCountry(String country) {
+//        Country.sendKeys(country);
+//    }
+//
+//    public void setEmail(String email) {
+//        Email.sendKeys(email);
+//    }
+//
+//    public void setPassword(String password) {
+//        Password.sendKeys(password);
+//    }
+//
+//    public void setConfirmPassword(String confirmPassword) {
+//        ConfirmPassword.sendKeys(confirmPassword);
+//
+//    }
 
     public void Submitbtn() {
         Submitbtn.click();
